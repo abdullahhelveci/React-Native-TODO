@@ -7,6 +7,10 @@ This application is a simple React Native to-do app project. Additionally, the t
 - react-native
 - react-native-uuid
 - react-native-async-storage
+- react-native-linear-gradient
+- react-navigation/native
+- react-navigation/native-stack
+- react-native-screens
 
 Project GIF
 
